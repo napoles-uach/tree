@@ -32,7 +32,7 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "[=O]",
    "children": [
     {"name": "Easing", "size": 17010},
     {"name": "FunctionSequence", "size": 5842},
@@ -62,7 +62,7 @@
    ]
   },
   {
-   "name": "data",
+   "name": "[#N]",
    "children": [
     {
      "name": "converters",
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "display",
+   "name": "[O]",
    "children": [
     {"name": "DirtySprite", "size": 8833},
     {"name": "LineSprite", "size": 1732},
@@ -92,13 +92,13 @@
    ]
   },
   {
-   "name": "flex",
+   "name": "[N]",
    "children": [
     {"name": "FlareVis", "size": 4116}
    ]
   },
   {
-   "name": "physics",
+   "name": "[=N]",
    "children": [
     {"name": "DragForce", "size": 1082},
     {"name": "GravityForce", "size": 1336},
@@ -111,7 +111,7 @@
    ]
   },
   {
-   "name": "query",
+   "name": "[C]",
    "children": [
     {"name": "AggregateExpression", "size": 1616},
     {"name": "And", "size": 1027},
@@ -181,7 +181,7 @@
    ]
   },
   {
-   "name": "scale",
+   "name": "[=C]",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -196,7 +196,7 @@
    ]
   },
   {
-   "name": "util",
+   "name": "[#C]",
    "children": [
     {"name": "Arrays", "size": 8258},
     {"name": "Colors", "size": 10001},
