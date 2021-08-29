@@ -241,10 +241,10 @@
    ]
   },
   {
-   "name": "vis",
+   "name": "[Branch1_1]",
    "children": [
     {
-     "name": "axis",
+     "name": "Branch",
      "children": [
       {"name": "Axes", "size": 1302},
       {"name": "Axis", "size": 24593},
@@ -254,7 +254,7 @@
      ]
     },
     {
-     "name": "controls",
+     "name": "Main",
      "children": [
       {"name": "AnchorControl", "size": 2138},
       {"name": "ClickControl", "size": 3824},
