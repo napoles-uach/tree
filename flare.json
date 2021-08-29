@@ -7,7 +7,12 @@
     {
      "name": "FX1",
      "children": [
-      {"name": "F", "size": 3938},
+      {
+       "name": "F", "size": 3938,
+       "children": [
+        {"name": "End", "size": 1983}
+       ]
+      },
       {"name": "O", "size": 3812},
       {"name": "N", "size": 6714},
       {"name": "OX1", "size": 743},
@@ -15,12 +20,6 @@
       {"name": "NX2", "size": 743},
       {"name": "CX3", "size": 743},
       {"name": "CX3", "size": 743}
-     ]
-    },
-    {
-     "name": "F",
-     "children": [
-      {"name": "End", "size": 3534}
      ]
     }
    ]
