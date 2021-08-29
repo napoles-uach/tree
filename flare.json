@@ -2,7 +2,7 @@
  "name": "X0",
  "children": [
   {
-   "name": "analytics_1",
+   "name": "analytics",
    "children": [
     {
      "name": "cluster",
